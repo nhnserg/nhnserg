@@ -6,7 +6,7 @@ Inspired Front-end developer with strong analytical thinking and well-developed 
 * 🌍  I'm based in France, Marseille
 * 🖥️  See my portfolio at [my CV](http://nhnserg.github.io/CV/)
 * ✉️  You can contact me at [Telegram](https://t.me/nhnserg)
-* 🧠  I'm learning JavaScript, React, Node.js
+* 🧠  I'm learning JavaScript, React, Redux, TypeScript, Node.js
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
