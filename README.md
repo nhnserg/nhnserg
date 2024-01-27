@@ -2,12 +2,14 @@ Web Look Design: The Art of Frontend Development and BackEnd
 ------------------------------------------------
 
 Inspired Front-end developer with strong analytical thinking and well-developed organizational skills. Ambitious, highly responsible, punctual, and goal- oriented person, always ready to learn and gain new experiences. The ability to focus on details and time management are also good strengths of mine. Friendly team player with a good sense of humor.
-
+<div align="center">
 * 🌍  I'm based in France, Marseille
 * 🖥️  See my portfolio at [my CV](http://nhnserg.github.io/CV/)
 * ✉️  You can contact me at [Telegram](https://t.me/nhnserg)
 * 🧠  I'm learning JavaScript, React, Redux, TypeScript, Node.js
 * 🤝  I'm open to collaborating on interesting projects
+  
+</div>
 
 
 ### <p align="center"> Skills</p>
