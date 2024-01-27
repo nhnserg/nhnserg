@@ -9,7 +9,6 @@ Inspired Front-end developer with strong analytical thinking and well-developed 
 * 🧠  I'm learning JavaScript, React, Redux, TypeScript, Node.js
 * 🤝  I'm open to collaborating on interesting projects
 
-![Awesome gif](<div style="width:100%;height:0;padding-bottom:36%;position:relative;"><iframe src="https://giphy.com/embed/AKjT5kDZMK4wsPXJPk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/weareactdigital-actdigital-act-digital-weareact-AKjT5kDZMK4wsPXJPk">via GIPHY</a></p>)
 
 <p align="center">Skills</p>
 
