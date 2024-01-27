@@ -23,7 +23,7 @@ Inspired Front-end developer with strong analytical thinking and well-developed 
   
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnserg&repo=Movies&theme=radical)](https://github.com/nhnserg/Movies) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnserg&repo=Journal&theme=radical)](https://nhnserg.github.io/Journal/)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnserg&repo=Phonebook&theme=radical)](https://github.com/nhnserg/Phonebook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnserg&repo=Movie&theme=radical)](https://github.com/nhnserg/Movies) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnserg&repo=Journal&theme=radical)](https://nhnserg.github.io/Journal/)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnserg&repo=Phoneboo&theme=radical)](https://github.com/nhnserg/Phonebook)
 
 </div>
 
