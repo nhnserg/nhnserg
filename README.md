@@ -27,9 +27,9 @@ Inspired Front-end developer with strong analytical thinking and well-developed 
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/nhnserg"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<ol style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/nhnserg"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></ol>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/nhnserg"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+<ol style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/nhnserg"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></ol>
 
 </ul>
 
