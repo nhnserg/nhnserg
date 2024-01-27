@@ -9,7 +9,7 @@ Inspired Front-end developer with strong analytical thinking and well-developed 
 * 🧠  I'm learning JavaScript, React, Redux, TypeScript, Node.js
 * 🤝  I'm open to collaborating on interesting projects
 
-### Skills
+<p align="center">Skills</p>
 
 
 <p align="center">
@@ -17,7 +17,7 @@ Inspired Front-end developer with strong analytical thinking and well-developed 
 </p>
 
 
-### Socials
+<p align="center">Socials and Contacts</p>
 
 </picture> </a> <a href="https://www.linkedin.com/in/maksimenko-serhii/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
