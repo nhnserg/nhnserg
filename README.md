@@ -1,4 +1,4 @@
-### <p align="center"> The Art of Frontend Development and BackEnd</p>
+The Art of Frontend Development and BackEnd
 ------------------------------------------------
 
 Inspired Front-end developer with strong analytical thinking and well-developed organizational skills. Ambitious, highly responsible, punctual, and goal- oriented person, always ready to learn and gain new experiences. The ability to focus on details and time management are also good strengths of mine. Friendly team player with a good sense of humor.
