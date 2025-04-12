@@ -37,7 +37,7 @@ Inspired Front-end developer with strong analytical thinking and well-developed 
   
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnserg&repo=ta-multiservice&theme=radical)](https://github.com/nhnserg/Ta-MultiService) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnserg&repo=Journal&theme=radical)](https://github.com/nhnserg/Journal)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnserg&repo=Phonebook&theme=radical)](https://github.com/nhnserg/Phonebook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnserg&repo=ta-multiservice&theme=radical)](https://github.com/nhnserg/Ta-MultiService) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnserg&repo=Journal&theme=radical)](https://github.com/nhnserg/Journal)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnserg&repo=Tera-Mebli&theme=radical)]([https://github.com/nhnserg/tera-client])
 
 </div>
 
